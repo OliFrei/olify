@@ -584,3 +584,6 @@
   },
   "description": ""
 }
+"fsevents": {
+    "optional": true
+}
