@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "parcel-bundler": "^1.12.3"
   }
 }
